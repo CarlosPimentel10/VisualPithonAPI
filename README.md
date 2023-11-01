@@ -1,4 +1,4 @@
-# VisualPithonAPI
+# VisualPythonAPI
 About this Course FrOM ESRI TRAINING
 ArcGIS API for Python includes classes and methods for transforming your spatial and nonspatial data into powerful visualizations that deliver new insights. This web course introduces key visualization methods and customization options for creating maps and charts with the API.
 
